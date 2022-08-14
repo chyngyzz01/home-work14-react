@@ -1,0 +1,27 @@
+* {
+	font-size: 20px;
+	font-family: monospace;
+}
+.form {
+	width: 600px;
+	margin: auto;
+}
+.form input {
+	width: 400px;
+	height: 60px;
+	border: none;
+	outline: none;
+	border: 2px solid yellowgreen;
+	border-radius: 10px;
+	margin-bottom: 20px;
+	background: rgb(235, 230, 204);
+}
+.form button {
+	width: 150px;
+	height: 65px;
+	border-radius: 10px;
+	background: rgb(236, 210, 58);
+	border: 2px solid yellowgreen;
+	margin-left: 5px;
+	cursor: pointer;
+}
